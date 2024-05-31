@@ -97,4 +97,4 @@ Clone the repository:
 
 ## Credits
 
-This code was originally created by CampusX (@campusx-official). Various other models have been added and modified.
+This code was originally created by CampusX (@campusx-official). \ Various other models have been added and modified.
