@@ -38,6 +38,7 @@ The model used in this project is RandomForestClassifier that predicts the win/l
 ## Usage
 
 ## Run app.py on terminal
+
     ```bash
     streamlit run app.py
     ```
