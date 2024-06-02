@@ -39,7 +39,7 @@ The model used in this project is RandomForestClassifier that predicts the win/l
 
 ## Run app.py on terminal
 
-    ```bash
+    ```
     streamlit run app.py
     ```
 
@@ -97,7 +97,7 @@ The model used in this project is RandomForestClassifier that predicts the win/l
 ## Installation
 
 Clone the repository:
-    ```bash
+    ```
     git clone https://github.com/Aditya-Ranjan1234/IPL_WinPredictor.git
     ```
 
