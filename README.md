@@ -37,6 +37,11 @@ The model used in this project is RandomForestClassifier that predicts the win/l
 
 ## Usage
 
+## Run app.py on terminal
+    ```bash
+    streamlit run app.py
+    ```
+
 **Prepare Input Data**: Prepare a DataFrame with the input features as shown in the example below:
 
     # Sample input data
